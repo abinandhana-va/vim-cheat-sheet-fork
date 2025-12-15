@@ -22,3 +22,10 @@ Yet another vim cheat sheet.
 7. Run `node postinstall.js` to copy the English entries to all other locales.
 8. Translate all languages you know.
 9. Commit.
+
+CheatSheets
+1.Bash-https://devhints.io/bash
+2.Regular-https://www.gnu.org/software/sed/manual/html_node/sed-regular-expressions.html#sed-regular-expressions
+3.SED-https://quickref.me/sed.html
+4.SED2-https://gist.github.com/ssstonebraker/6140154
+5.AWK-https://quickref.me/awk.html
